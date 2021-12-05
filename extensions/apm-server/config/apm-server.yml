@@ -3,6 +3,6 @@ apm-server:
 
 output:
   elasticsearch:
-    hosts: ['http://elasticsearch:9200']
-    username: elastic
-    password: changeme
+    hosts: ["http://elasticsearch:9200"]
+    username: apm_system
+    password: hbun07vjo9phZwQT648y
